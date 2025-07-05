@@ -1,3 +1,3 @@
 # XGBoost
 
-Implemented XGBoost 
+Implemented XGBoost model
