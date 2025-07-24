@@ -26,5 +26,6 @@ This repository provides an implementation and exploration of the XGBoost algori
 1. **Fork and Clone**
    ```bash
    git fork https://github.com/MaddyRizvi/xgboost.git
-   git clone https://github.com/<your-username>/xgboost.git
+   git clone https://github.com/MaddyRizvi/xgboost.git
    cd xgboost
+
