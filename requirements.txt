@@ -1,2 +1,6 @@
+xgboost>=2.1.0
 numpy
+scipy
+scikit-learn
+pandas
 matplotlib
