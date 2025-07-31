@@ -1,6 +1,6 @@
 # XGBoost Classification Project
 
-This project demonstrates how to use **XGBoost**, an optimized gradient boosting framework, to solve a classification problem using Python and scikit-learn. The implementation is done in a Jupyter Notebook (`xg_boost.ipynb`), and it includes preprocessing, model training, evaluation, and cross-validation.
+This project demonstrates how to use **XGBoost**, an optimized gradient boosting framework, to solve a classification problem using Python and scikit-learn. The implementation is done in a Jupyter Notebook (`xg_boost.ipynb`), and it includes preprocessing, model training, evaluation, and cross-validation. This project can be applied to any other big dataset to obtain the efficient result.
 
 ## 📁 Files
 
